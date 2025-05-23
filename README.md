@@ -1,2 +1,2 @@
 # Machine-Learning
-Pet-project - Machine Learning 
+Пет-проекты в направлении машинного обучения
